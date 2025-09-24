@@ -18,8 +18,8 @@ const About = () => {
             that solve real problems and scale well.
           </p>
 
-          <a download="" href="" className="button button--flex">
-            Download Resume
+          <a href="https://asadbekmmjnv.my.canva.site/" target="_blank" className="button button--flex">
+            Resume
             <svg
               className="button__icon"
               xmlns="http://www.w3.org/2000/svg"
